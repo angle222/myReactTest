@@ -109,9 +109,6 @@ class MyForm extends Component {
                         <Input></Input>
                     )
                 }
-
-
-
                 <Button onClick={() => this.login()}>登录</Button>
             </div>
         );
